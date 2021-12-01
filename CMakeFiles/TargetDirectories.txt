@@ -1,0 +1,3 @@
+C:/Users/Dasmit Sethi/Desktop/TNG033/lab2/code/CMakeFiles/Exercise1.dir
+C:/Users/Dasmit Sethi/Desktop/TNG033/lab2/code/CMakeFiles/ALL_BUILD.dir
+C:/Users/Dasmit Sethi/Desktop/TNG033/lab2/code/CMakeFiles/ZERO_CHECK.dir
